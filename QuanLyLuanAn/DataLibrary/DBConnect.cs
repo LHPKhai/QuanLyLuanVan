@@ -12,10 +12,7 @@ namespace QuanLyLuanAn.DAL
     public class DBConnect<T> : IDisposable where T : class
     {
 
-        public DBConnect()
-        {
-            
-        }
+        public DBConnect(){ }
 
         public List<T> LayDanhSach()
         {

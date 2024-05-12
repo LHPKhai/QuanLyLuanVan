@@ -84,88 +84,88 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FCapNhatThongTInGV.cs">
+    <Compile Include="View\Forms\FCapNhatThongTInGV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FCapNhatThongTInGV.Designer.cs">
+    <Compile Include="View\Forms\FCapNhatThongTInGV.Designer.cs">
       <DependentUpon>FCapNhatThongTInGV.cs</DependentUpon>
     </Compile>
-    <Compile Include="FCapNhatThongTinSV.cs">
+    <Compile Include="View\Forms\FCapNhatThongTinSV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FCapNhatThongTinSV.Designer.cs">
+    <Compile Include="View\Forms\FCapNhatThongTinSV.Designer.cs">
       <DependentUpon>FCapNhatThongTinSV.cs</DependentUpon>
     </Compile>
-    <Compile Include="FDiemSV.cs">
+    <Compile Include="View\Forms\FDiemSV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FDiemSV.Designer.cs">
+    <Compile Include="View\Forms\FDiemSV.Designer.cs">
       <DependentUpon>FDiemSV.cs</DependentUpon>
     </Compile>
-    <Compile Include="FDoiMatKhau.cs">
+    <Compile Include="View\Forms\FDoiMatKhau.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FDoiMatKhau.Designer.cs">
+    <Compile Include="View\Forms\FDoiMatKhau.Designer.cs">
       <DependentUpon>FDoiMatKhau.cs</DependentUpon>
     </Compile>
-    <Compile Include="FDSHuyDuyet.cs">
+    <Compile Include="View\Forms\FDSHuyDuyet.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FDSHuyDuyet.Designer.cs">
+    <Compile Include="View\Forms\FDSHuyDuyet.Designer.cs">
       <DependentUpon>FDSHuyDuyet.cs</DependentUpon>
     </Compile>
-    <Compile Include="FDSSinhVien.cs">
+    <Compile Include="View\Forms\FDSSinhVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FDSSinhVien.Designer.cs">
+    <Compile Include="View\Forms\FDSSinhVien.Designer.cs">
       <DependentUpon>FDSSinhVien.cs</DependentUpon>
     </Compile>
-    <Compile Include="FDSChamDiemLuanVan.cs">
+    <Compile Include="View\Forms\FDSChamDiemLuanVan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FDSChamDiemLuanVan.Designer.cs">
+    <Compile Include="View\Forms\FDSChamDiemLuanVan.Designer.cs">
       <DependentUpon>FDSChamDiemLuanVan.cs</DependentUpon>
     </Compile>
-    <Compile Include="FDSThongBao.cs">
+    <Compile Include="View\Forms\FDSThongBao.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FDSThongBao.Designer.cs">
+    <Compile Include="View\Forms\FDSThongBao.Designer.cs">
       <DependentUpon>FDSThongBao.cs</DependentUpon>
     </Compile>
-    <Compile Include="FHoiDongChamDiem.cs">
+    <Compile Include="View\Forms\FHoiDongChamDiem.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FHoiDongChamDiem.Designer.cs">
+    <Compile Include="View\Forms\FHoiDongChamDiem.Designer.cs">
       <DependentUpon>FHoiDongChamDiem.cs</DependentUpon>
     </Compile>
-    <Compile Include="FThaoTacNhiemVu.cs">
+    <Compile Include="View\Forms\FThaoTacNhiemVu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FThaoTacNhiemVu.Designer.cs">
+    <Compile Include="View\Forms\FThaoTacNhiemVu.Designer.cs">
       <DependentUpon>FThaoTacNhiemVu.cs</DependentUpon>
     </Compile>
-    <Compile Include="FThongBao.cs">
+    <Compile Include="View\Forms\FThongBao.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FThongBao.Designer.cs">
+    <Compile Include="View\Forms\FThongBao.Designer.cs">
       <DependentUpon>FThongBao.cs</DependentUpon>
     </Compile>
-    <Compile Include="FChiTietNVNhan.cs">
+    <Compile Include="View\Forms\FChiTietNVNhan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FChiTietNVNhan.Designer.cs">
+    <Compile Include="View\Forms\FChiTietNVNhan.Designer.cs">
       <DependentUpon>FChiTietNVNhan.cs</DependentUpon>
     </Compile>
-    <Compile Include="FThongTinGV.cs">
+    <Compile Include="View\Forms\FThongTinGV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FThongTinGV.Designer.cs">
+    <Compile Include="View\Forms\FThongTinGV.Designer.cs">
       <DependentUpon>FThongTinGV.cs</DependentUpon>
     </Compile>
-    <Compile Include="FThongTinSV.cs">
+    <Compile Include="View\Forms\FThongTinSV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FThongTinSV.Designer.cs">
+    <Compile Include="View\Forms\FThongTinSV.Designer.cs">
       <DependentUpon>FThongTinSV.cs</DependentUpon>
     </Compile>
     <Compile Include="Presenter\Hotro.cs" />
@@ -176,214 +176,214 @@
     <Compile Include="Presenter\PNhiemVu.cs" />
     <Compile Include="Presenter\PNhiemVu_TroChuyen.cs" />
     <Compile Include="Presenter\PNhom.cs" />
-    <Compile Include="FDangNhap.cs">
+    <Compile Include="View\Forms\FDangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FDangNhap.Designer.cs">
+    <Compile Include="View\Forms\FDangNhap.Designer.cs">
       <DependentUpon>FDangNhap.cs</DependentUpon>
     </Compile>
-    <Compile Include="FLuanVan.cs">
+    <Compile Include="View\Forms\FLuanVan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FLuanVan.Designer.cs">
+    <Compile Include="View\Forms\FLuanVan.Designer.cs">
       <DependentUpon>FLuanVan.cs</DependentUpon>
     </Compile>
-    <Compile Include="FDangKyLuanVan.cs">
+    <Compile Include="View\Forms\FDangKyLuanVan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FDangKyLuanVan.Designer.cs">
+    <Compile Include="View\Forms\FDangKyLuanVan.Designer.cs">
       <DependentUpon>FDangKyLuanVan.cs</DependentUpon>
     </Compile>
-    <Compile Include="FDuyetLuanVan.cs">
+    <Compile Include="View\Forms\FDuyetLuanVan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FDuyetLuanVan.Designer.cs">
+    <Compile Include="View\Forms\FDuyetLuanVan.Designer.cs">
       <DependentUpon>FDuyetLuanVan.cs</DependentUpon>
     </Compile>
-    <Compile Include="FGiangVien.cs">
+    <Compile Include="View\Forms\FGiangVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FGiangVien.Designer.cs">
+    <Compile Include="View\Forms\FGiangVien.Designer.cs">
       <DependentUpon>FGiangVien.cs</DependentUpon>
     </Compile>
-    <Compile Include="FSinhVien.cs">
+    <Compile Include="View\Forms\FSinhVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FSinhVien.Designer.cs">
+    <Compile Include="View\Forms\FSinhVien.Designer.cs">
       <DependentUpon>FSinhVien.cs</DependentUpon>
     </Compile>
     <Compile Include="Presenter\PThongBao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="FTBDuyet.cs">
+    <Compile Include="View\Forms\FTBDuyet.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FTBDuyet.Designer.cs">
+    <Compile Include="View\Forms\FTBDuyet.Designer.cs">
       <DependentUpon>FTBDuyet.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCDeTaiChamDiem.cs">
+    <Compile Include="View\UserControls\UCDeTaiChamDiem.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCDeTaiChamDiem.Designer.cs">
+    <Compile Include="View\UserControls\UCDeTaiChamDiem.Designer.cs">
       <DependentUpon>UCDeTaiChamDiem.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCDiemHoiDong.cs">
+    <Compile Include="View\UserControls\UCDiemHoiDong.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCDiemHoiDong.Designer.cs">
+    <Compile Include="View\UserControls\UCDiemHoiDong.Designer.cs">
       <DependentUpon>UCDiemHoiDong.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCDiemSV.cs">
+    <Compile Include="View\UserControls\UCDiemSV.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCDiemSV.Designer.cs">
+    <Compile Include="View\UserControls\UCDiemSV.Designer.cs">
       <DependentUpon>UCDiemSV.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCDSNhiemVuSV.cs">
+    <Compile Include="View\UserControls\UCDSNhiemVuSV.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCDSNhiemVuSV.Designer.cs">
+    <Compile Include="View\UserControls\UCDSNhiemVuSV.Designer.cs">
       <DependentUpon>UCDSNhiemVuSV.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCDSSinhVien.cs">
+    <Compile Include="View\UserControls\UCDSSinhVien.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCDSSinhVien.Designer.cs">
+    <Compile Include="View\UserControls\UCDSSinhVien.Designer.cs">
       <DependentUpon>UCDSSinhVien.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCGVChamDiem.cs">
+    <Compile Include="View\UserControls\UCGVChamDiem.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCGVChamDiem.Designer.cs">
+    <Compile Include="View\UserControls\UCGVChamDiem.Designer.cs">
       <DependentUpon>UCGVChamDiem.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCDSNhiemVuGV.cs">
+    <Compile Include="View\UserControls\UCDSNhiemVuGV.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCDSNhiemVuGV.Designer.cs">
+    <Compile Include="View\UserControls\UCDSNhiemVuGV.Designer.cs">
       <DependentUpon>UCDSNhiemVuGV.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCHienThiNV.cs">
+    <Compile Include="View\UserControls\UCHienThiNV.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCHienThiNV.Designer.cs">
+    <Compile Include="View\UserControls\UCHienThiNV.Designer.cs">
       <DependentUpon>UCHienThiNV.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCLuanVan.cs">
+    <Compile Include="View\UserControls\UCLuanVan.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCLuanVan.Designer.cs">
+    <Compile Include="View\UserControls\UCLuanVan.Designer.cs">
       <DependentUpon>UCLuanVan.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCDuyetDeTai.cs">
+    <Compile Include="View\UserControls\UCDuyetDeTai.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCDuyetDeTai.Designer.cs">
+    <Compile Include="View\UserControls\UCDuyetDeTai.Designer.cs">
       <DependentUpon>UCDuyetDeTai.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCMSSV.cs">
+    <Compile Include="View\UserControls\UCMSSV.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCMSSV.Designer.cs">
+    <Compile Include="View\UserControls\UCMSSV.Designer.cs">
       <DependentUpon>UCMSSV.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCSVDuyet.cs">
+    <Compile Include="View\UserControls\UCSVDuyet.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCSVDuyet.Designer.cs">
+    <Compile Include="View\UserControls\UCSVDuyet.Designer.cs">
       <DependentUpon>UCSVDuyet.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCSVKoDuyet.cs">
+    <Compile Include="View\UserControls\UCSVKoDuyet.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCSVKoDuyet.Designer.cs">
+    <Compile Include="View\UserControls\UCSVKoDuyet.Designer.cs">
       <DependentUpon>UCSVKoDuyet.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCThaoTacLuanVan.cs">
+    <Compile Include="View\UserControls\UCThaoTacLuanVan.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCThaoTacLuanVan.Designer.cs">
+    <Compile Include="View\UserControls\UCThaoTacLuanVan.Designer.cs">
       <DependentUpon>UCThaoTacLuanVan.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCThongBao.cs">
+    <Compile Include="View\UserControls\UCThongBao.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCThongBao.Designer.cs">
+    <Compile Include="View\UserControls\UCThongBao.Designer.cs">
       <DependentUpon>UCThongBao.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCTNGui.cs">
+    <Compile Include="View\UserControls\UCTNGui.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCTNGui.Designer.cs">
+    <Compile Include="View\UserControls\UCTNGui.Designer.cs">
       <DependentUpon>UCTNGui.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCTNNhan.cs">
+    <Compile Include="View\UserControls\UCTNNhan.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCTNNhan.Designer.cs">
+    <Compile Include="View\UserControls\UCTNNhan.Designer.cs">
       <DependentUpon>UCTNNhan.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="FCapNhatThongTInGV.resx">
+    <EmbeddedResource Include="View\Forms\FCapNhatThongTInGV.resx">
       <DependentUpon>FCapNhatThongTInGV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FCapNhatThongTinSV.resx">
+    <EmbeddedResource Include="View\Forms\FCapNhatThongTinSV.resx">
       <DependentUpon>FCapNhatThongTinSV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FChiTietNVNhan.resx">
+    <EmbeddedResource Include="View\Forms\FChiTietNVNhan.resx">
       <DependentUpon>FChiTietNVNhan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FDangNhap.resx">
+    <EmbeddedResource Include="View\Forms\FDangNhap.resx">
       <DependentUpon>FDangNhap.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FDiemSV.resx">
+    <EmbeddedResource Include="View\Forms\FDiemSV.resx">
       <DependentUpon>FDiemSV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FDoiMatKhau.resx">
+    <EmbeddedResource Include="View\Forms\FDoiMatKhau.resx">
       <DependentUpon>FDoiMatKhau.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FDSSinhVien.resx">
+    <EmbeddedResource Include="View\Forms\FDSSinhVien.resx">
       <DependentUpon>FDSSinhVien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FDSChamDiemLuanVan.resx">
+    <EmbeddedResource Include="View\Forms\FDSChamDiemLuanVan.resx">
       <DependentUpon>FDSChamDiemLuanVan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FDSThongBao.resx">
+    <EmbeddedResource Include="View\Forms\FDSThongBao.resx">
       <DependentUpon>FDSThongBao.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FHoiDongChamDiem.resx">
+    <EmbeddedResource Include="View\Forms\FHoiDongChamDiem.resx">
       <DependentUpon>FHoiDongChamDiem.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FLuanVan.resx">
+    <EmbeddedResource Include="View\Forms\FLuanVan.resx">
       <DependentUpon>FLuanVan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FDangKyLuanVan.resx">
+    <EmbeddedResource Include="View\Forms\FDangKyLuanVan.resx">
       <DependentUpon>FDangKyLuanVan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FDuyetLuanVan.resx">
+    <EmbeddedResource Include="View\Forms\FDuyetLuanVan.resx">
       <DependentUpon>FDuyetLuanVan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FGiangVien.resx">
+    <EmbeddedResource Include="View\Forms\FGiangVien.resx">
       <DependentUpon>FGiangVien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FSinhVien.resx">
+    <EmbeddedResource Include="View\Forms\FSinhVien.resx">
       <DependentUpon>FSinhVien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FDSHuyDuyet.resx">
+    <EmbeddedResource Include="View\Forms\FDSHuyDuyet.resx">
       <DependentUpon>FDSHuyDuyet.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FTBDuyet.resx">
+    <EmbeddedResource Include="View\Forms\FTBDuyet.resx">
       <DependentUpon>FTBDuyet.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FThaoTacNhiemVu.resx">
+    <EmbeddedResource Include="View\Forms\FThaoTacNhiemVu.resx">
       <DependentUpon>FThaoTacNhiemVu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FThongBao.resx">
+    <EmbeddedResource Include="View\Forms\FThongBao.resx">
       <DependentUpon>FThongBao.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FThongTinGV.resx">
+    <EmbeddedResource Include="View\Forms\FThongTinGV.resx">
       <DependentUpon>FThongTinGV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FThongTinSV.resx">
+    <EmbeddedResource Include="View\Forms\FThongTinSV.resx">
       <DependentUpon>FThongTinSV.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -396,55 +396,55 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="UCDeTaiChamDiem.resx">
+    <EmbeddedResource Include="View\UserControls\UCDeTaiChamDiem.resx">
       <DependentUpon>UCDeTaiChamDiem.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCDiemHoiDong.resx">
+    <EmbeddedResource Include="View\UserControls\UCDiemHoiDong.resx">
       <DependentUpon>UCDiemHoiDong.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCDiemSV.resx">
+    <EmbeddedResource Include="View\UserControls\UCDiemSV.resx">
       <DependentUpon>UCDiemSV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCDSNhiemVuSV.resx">
+    <EmbeddedResource Include="View\UserControls\UCDSNhiemVuSV.resx">
       <DependentUpon>UCDSNhiemVuSV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCDSSinhVien.resx">
+    <EmbeddedResource Include="View\UserControls\UCDSSinhVien.resx">
       <DependentUpon>UCDSSinhVien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCGVChamDiem.resx">
+    <EmbeddedResource Include="View\UserControls\UCGVChamDiem.resx">
       <DependentUpon>UCGVChamDiem.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCDSNhiemVuGV.resx">
+    <EmbeddedResource Include="View\UserControls\UCDSNhiemVuGV.resx">
       <DependentUpon>UCDSNhiemVuGV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCHienThiNV.resx">
+    <EmbeddedResource Include="View\UserControls\UCHienThiNV.resx">
       <DependentUpon>UCHienThiNV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCLuanVan.resx">
+    <EmbeddedResource Include="View\UserControls\UCLuanVan.resx">
       <DependentUpon>UCLuanVan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCDuyetDeTai.resx">
+    <EmbeddedResource Include="View\UserControls\UCDuyetDeTai.resx">
       <DependentUpon>UCDuyetDeTai.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCMSSV.resx">
+    <EmbeddedResource Include="View\UserControls\UCMSSV.resx">
       <DependentUpon>UCMSSV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCSVDuyet.resx">
+    <EmbeddedResource Include="View\UserControls\UCSVDuyet.resx">
       <DependentUpon>UCSVDuyet.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCSVKoDuyet.resx">
+    <EmbeddedResource Include="View\UserControls\UCSVKoDuyet.resx">
       <DependentUpon>UCSVKoDuyet.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCThaoTacLuanVan.resx">
+    <EmbeddedResource Include="View\UserControls\UCThaoTacLuanVan.resx">
       <DependentUpon>UCThaoTacLuanVan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCThongBao.resx">
+    <EmbeddedResource Include="View\UserControls\UCThongBao.resx">
       <DependentUpon>UCThongBao.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCTNGui.resx">
+    <EmbeddedResource Include="View\UserControls\UCTNGui.resx">
       <DependentUpon>UCTNGui.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCTNNhan.resx">
+    <EmbeddedResource Include="View\UserControls\UCTNNhan.resx">
       <DependentUpon>UCTNNhan.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
@@ -509,9 +509,7 @@
   <ItemGroup>
     <None Include="Resources\tim_kiem.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="View\NhiemVu\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Resources\icons8-book-50 %281%29.png" />
   </ItemGroup>

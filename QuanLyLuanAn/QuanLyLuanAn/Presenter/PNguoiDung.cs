@@ -23,6 +23,11 @@ namespace QuanLyLuanAn.BUS
         ~PNguoiDung() { }
 
         #region CRUD
+        public void CapNhat(NguoiDung user)
+        {
+            db.CapNhat(user);
+        }
+
         public void CapNhat(int NguoiDungID, NguoiDung user1)
         {
             var user = db.LayDanhSach().FirstOrDefault(u => u.ID == NguoiDungID);
@@ -40,8 +45,6 @@ namespace QuanLyLuanAn.BUS
         }
         #endregion
 
-
-        
 
         public NguoiDung Login(string TenDangNhap, string matKhau)
         {
@@ -108,11 +111,7 @@ namespace QuanLyLuanAn.BUS
             return true;
         }
 
-        public void CapNhat(NguoiDung user)
-        {
-            db.CapNhat(user);
-        }
-
+        
         public List<NguoiDung> LayDanhSachGiangVien()
         {
             var nguoiDungs = db.LayDanhSach();

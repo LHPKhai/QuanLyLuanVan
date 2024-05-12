@@ -22,3 +22,15 @@ C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\bin\Debug\Ent
 C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.xml
 C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibr.6887D3A1.Up2Date
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\bin\Debug\DataLibrary.dll.config
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\bin\Debug\DataLibrary.dll
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\bin\Debug\DataLibrary.pdb
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.dll
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.xml
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibr.6887D3A1.Up2Date
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.dll
+D:\Git\New folder\QuanLyLuanVan\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.pdb
