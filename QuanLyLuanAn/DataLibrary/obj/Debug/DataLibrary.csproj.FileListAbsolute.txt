@@ -1,0 +1,24 @@
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\bin\Debug\DataLibrary.dll.config
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.dll
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.xml
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibr.6887D3A1.Up2Date
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\hello\Desktop\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\bin\Debug\DataLibrary.dll.config
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.dll
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.xml
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\DataLibrary\obj\Debug\DataLibr.6887D3A1.Up2Date

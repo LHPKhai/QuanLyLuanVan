@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LuanVanDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="LuanVan">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TieuDe" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MoTa" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ChucNang" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="YeuCau" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SoLuongSinhVien" Type="Int32" />
+    <Property Name="TheLoai" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CongNghe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GiangVienID" Type="Int32" />
+    <Property Name="TinhTrang" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="NguoiDung" Relationship="Self.FK__LuanVan__GiangVi__628FA481" FromRole="LuanVan" ToRole="NguoiDung" />
+    <NavigationProperty Name="NhiemVus" Relationship="Self.FK__NhiemVu__LuanVan__66603565" FromRole="LuanVan" ToRole="NhiemVu" />
+  </EntityType>
+  <EntityType Name="NguoiDung">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HoTen" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="VaiTro" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="0" />
+    <Property Name="GioiTinh" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="SoDienThoai" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="TenDangNhap" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="LuanVans" Relationship="Self.FK__LuanVan__GiangVi__628FA481" FromRole="NguoiDung" ToRole="LuanVan" />
+    <NavigationProperty Name="NhiemVus" Relationship="Self.FK__NhiemVu__NguoiDu__6754599E" FromRole="NguoiDung" ToRole="NhiemVu" />
+  </EntityType>
+  <EntityType Name="NhiemVu">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TieuDe" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MoTa" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ThoiGianDenHan" Type="DateTime" Precision="0" />
+    <Property Name="TiLePhanCham" Type="Int32" />
+    <Property Name="LuanVanID" Type="Int32" />
+    <Property Name="NguoiDuocGiao" Type="Int32" />
+    <Property Name="HoanThanh" Type="Boolean" />
+    <NavigationProperty Name="LuanVan" Relationship="Self.FK__NhiemVu__LuanVan__66603565" FromRole="NhiemVu" ToRole="LuanVan" />
+    <NavigationProperty Name="NguoiDung" Relationship="Self.FK__NhiemVu__NguoiDu__6754599E" FromRole="NhiemVu" ToRole="NguoiDung" />
+    <NavigationProperty Name="NhiemVu_TroChuyen" Relationship="Self.FK__NhiemVu_T__Nhiem__6A30C649" FromRole="NhiemVu" ToRole="NhiemVu_TroChuyen" />
+  </EntityType>
+  <EntityType Name="NhiemVu_TroChuyen">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NoiDung" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ThoiGian" Type="DateTime" Precision="3" />
+    <Property Name="NhiemVuID" Type="Int32" />
+    <NavigationProperty Name="NhiemVu" Relationship="Self.FK__NhiemVu_T__Nhiem__6A30C649" FromRole="NhiemVu_TroChuyen" ToRole="NhiemVu" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK__LuanVan__GiangVi__628FA481">
+    <End Role="NguoiDung" Type="Self.NguoiDung" Multiplicity="0..1" />
+    <End Role="LuanVan" Type="Self.LuanVan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NguoiDung">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="LuanVan">
+        <PropertyRef Name="GiangVienID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NhiemVu__LuanVan__66603565">
+    <End Role="LuanVan" Type="Self.LuanVan" Multiplicity="0..1" />
+    <End Role="NhiemVu" Type="Self.NhiemVu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LuanVan">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="NhiemVu">
+        <PropertyRef Name="LuanVanID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NhiemVu__NguoiDu__6754599E">
+    <End Role="NguoiDung" Type="Self.NguoiDung" Multiplicity="0..1" />
+    <End Role="NhiemVu" Type="Self.NhiemVu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NguoiDung">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="NhiemVu">
+        <PropertyRef Name="NguoiDuocGiao" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NhiemVu_T__Nhiem__6A30C649">
+    <End Role="NhiemVu" Type="Self.NhiemVu" Multiplicity="0..1" />
+    <End Role="NhiemVu_TroChuyen" Type="Self.NhiemVu_TroChuyen" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhiemVu">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="NhiemVu_TroChuyen">
+        <PropertyRef Name="NhiemVuID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="LuanVanDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="LuanVans" EntityType="Self.LuanVan" />
+    <EntitySet Name="NguoiDungs" EntityType="Self.NguoiDung" />
+    <EntitySet Name="NhiemVus" EntityType="Self.NhiemVu" />
+    <EntitySet Name="NhiemVu_TroChuyen" EntityType="Self.NhiemVu_TroChuyen" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK__LuanVan__GiangVi__628FA481" Association="Self.FK__LuanVan__GiangVi__628FA481">
+      <End Role="NguoiDung" EntitySet="NguoiDungs" />
+      <End Role="LuanVan" EntitySet="LuanVans" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NhiemVu__LuanVan__66603565" Association="Self.FK__NhiemVu__LuanVan__66603565">
+      <End Role="LuanVan" EntitySet="LuanVans" />
+      <End Role="NhiemVu" EntitySet="NhiemVus" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NhiemVu__NguoiDu__6754599E" Association="Self.FK__NhiemVu__NguoiDu__6754599E">
+      <End Role="NguoiDung" EntitySet="NguoiDungs" />
+      <End Role="NhiemVu" EntitySet="NhiemVus" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NhiemVu_T__Nhiem__6A30C649" Association="Self.FK__NhiemVu_T__Nhiem__6A30C649">
+      <End Role="NhiemVu" EntitySet="NhiemVus" />
+      <End Role="NhiemVu_TroChuyen" EntitySet="NhiemVu_TroChuyen" />
+    </AssociationSet>
+    <EntitySet Name="Nhoms" EntityType="LuanVanDBModel.Nhom" />
+    <EntitySet Name="LyDoes" EntityType="LuanVanDBModel.LyDo" />
+  </EntityContainer>
+  <EntityType Name="Nhom">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LuanVanID" Type="Int32" />
+    <Property Name="ThanhVienID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="LyDo">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LuanVanID" Type="Int32" />
+    <Property Name="SinhVienID" Type="Int32" />
+    <Property Name="LyDoText" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

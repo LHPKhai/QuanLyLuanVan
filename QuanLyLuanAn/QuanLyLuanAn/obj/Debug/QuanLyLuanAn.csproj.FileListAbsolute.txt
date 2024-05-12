@@ -1,0 +1,228 @@
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.AssemblyReference.cache
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FChamDiem.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDangNhap.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDanhSachDeTai.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FGiangVien.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FNhiemVu.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FSinhVien.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FTinNhan.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.Properties.Resources.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDeTai.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDKDeTai.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\TaoUC.UCDSNhiemVu.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\TaoUC.UCDuyetDeTai.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCGuiTinNhan.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCMSSV.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCThaoTacDeTai.resources
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.GenerateResource.cache
+E:\Lập trình Window\LUANVAN\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.CoreCompileInputs.cache
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.AssemblyReference.cache
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FChamDiem.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDangNhap.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDKDeTai.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FGiangVien.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FNhiemVu.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FSinhVien.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FTinNhan.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.Properties.Resources.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDKDeTai.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\TaoUC.UCDSNhiemVu.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\TaoUC.UCDuyetDeTai.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCGuiTinNhan.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCMSSV.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.GenerateResource.cache
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.CoreCompileInputs.cache
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.exe.config
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.exe
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.pdb
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\bin\Debug\EntityFramework.dll
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\bin\Debug\Guna.UI2.dll
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\bin\Debug\EntityFramework.xml
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLu.A9ED45D4.Up2Date
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.exe
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.pdb
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDanhSachLuanVan.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCLuanVan.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCThaoTacLuanVan.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDuyetLuanVan.resources
+C:\Users\hello\Documents\GitHub\LuanVan\new\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDanhSachSV.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.exe.config
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.exe
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.pdb
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\DataLibrary.dll
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.dll
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\Guna.UI2.dll
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\DataLibrary.pdb
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\DataLibrary.dll.config
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.xml
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.AssemblyReference.cache
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDangNhap.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDuyetLuanVan.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FGiangVien.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FSinhVien.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.Properties.Resources.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCLuanVan.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDKDeTai.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCMSSV.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCThaoTacLuanVan.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.GenerateResource.cache
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.CoreCompileInputs.cache
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLu.A9ED45D4.Up2Date
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.exe
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.pdb
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FLuanVan.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCChiTietNV.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCChiTietNVNhan.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCHienThiNV.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDuyetDeTai.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCThemNhiemVu.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCTNGui.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCTNNhan.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDangKyLuanVan.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThongBao.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSHuyDuyet.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThaoTacNhiemVu.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FChiTietNVNhan.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSSinhVien.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDeTaiChamDiem.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCGVChamDiem.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCSVDuyet.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCSVKoDuyet.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSChamDiemLuanVan.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDSNhiemVuSV.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDSNhiemVuGV.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FTBDuyet.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSThongBao.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCThongBao.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDiemSV.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FHoiDongChamDiem.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDiemHoiDong.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDiemSV.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSSinhVien1.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDSSinhVien.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FCapNhatThongTInGV.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FCapNhatThongTinSV.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDoiMatKhau.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThongTInGV.resources
+C:\Users\hello\Desktop\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThongTinSV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.exe.config
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.exe
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.pdb
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\DataLibrary.dll
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.dll
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\Guna.UI2.dll
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\DataLibrary.pdb
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\DataLibrary.dll.config
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.xml
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.AssemblyReference.cache
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FCapNhatThongTInGV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FCapNhatThongTinSV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FChiTietNVNhan.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDangNhap.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDiemSV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDoiMatKhau.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSSinhVien.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSSinhVien1.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSChamDiemLuanVan.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSThongBao.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FHoiDongChamDiem.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FLuanVan.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDangKyLuanVan.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDuyetLuanVan.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FGiangVien.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FSinhVien.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSHuyDuyet.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FTBDuyet.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThaoTacNhiemVu.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThongBao.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThongTinGV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThongTinSV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.Properties.Resources.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCChiTietNV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCChiTietNVNhan.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDeTaiChamDiem.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDiemHoiDong.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDiemSV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDSNhiemVuSV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDSSinhVien.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCGVChamDiem.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDSNhiemVuGV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCHienThiNV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCLuanVan.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDKDeTai.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDuyetDeTai.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCMSSV.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCSVDuyet.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCSVKoDuyet.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCThaoTacLuanVan.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCThemNhiemVu.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCThongBao.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCTNGui.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCTNNhan.resources
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.GenerateResource.cache
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.CoreCompileInputs.cache
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLu.A9ED45D4.Up2Date
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.exe
+D:\HK4\LapTrinhWindows\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.pdb
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.exe.config
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.exe
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\QuanLyLuanAn.pdb
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\DataLibrary.dll
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.dll
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\Guna.UI2.dll
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\DataLibrary.pdb
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\DataLibrary.dll.config
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.xml
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.AssemblyReference.cache
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FCapNhatThongTInGV.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FCapNhatThongTinSV.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FChiTietNVNhan.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDangNhap.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDiemSV.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDoiMatKhau.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSSinhVien.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSChamDiemLuanVan.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSThongBao.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FHoiDongChamDiem.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FLuanVan.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDangKyLuanVan.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDuyetLuanVan.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FGiangVien.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FSinhVien.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FDSHuyDuyet.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FTBDuyet.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThaoTacNhiemVu.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThongBao.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThongTinGV.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.FThongTinSV.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.Properties.Resources.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDeTaiChamDiem.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDiemHoiDong.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDiemSV.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDSNhiemVuSV.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDSSinhVien.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCGVChamDiem.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDSNhiemVuGV.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCHienThiNV.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCLuanVan.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCDuyetDeTai.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCMSSV.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCSVDuyet.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCSVKoDuyet.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCThaoTacLuanVan.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCThongBao.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCTNGui.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.UCTNNhan.resources
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.GenerateResource.cache
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.csproj.CoreCompileInputs.cache
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLu.A9ED45D4.Up2Date
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.exe
+C:\Users\hello\Downloads\QuanLyLuanAn (1)\QuanLyLuanAn\QuanLyLuanAn\obj\Debug\QuanLyLuanAn.pdb
